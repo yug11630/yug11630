@@ -7,7 +7,7 @@
 
 💌 **E-mail**  yugioh1130@naver.com
 
-😺 **Notion** https://bit.ly/3qRpYMc
+📕 **Notion** https://bit.ly/3qRpYMc
 
 ---
 
