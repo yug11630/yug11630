@@ -27,10 +27,5 @@
 
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=navy"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=navy">
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/react-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> 
 
-|  언어 | 〃 | 개발 환경 | 프레임워크 | DB | 기타 |
-| --- | --- | --- | --- | --- | --- |
-| Java | HTML5 | Eclipse | Spring | Oracle | JSP |
-| C | SQL | Visual Studio | Spring Boot | MySQL | GitHub |
-| JavaScript |  | IntelliJ IDEA | Websquare5 | MongoDB | SVN |
-| CSS |  |  |  |  | Jenkins |
