@@ -11,6 +11,14 @@
 
 ---
 
+<h3>👩🏻‍💻 참여 프로젝트</h3>
+
+[해운 사업 DOOWOO NET 전환 및 개발](https://www.notion.so/PARK-SORA-c9ec94236f284bcc8b458d6a639ea840?p=f9ee76cdb0fb477ab5e052e8d55d3a96&pm=c)
+
+[서울대학교 행정 정보 시스템 비 표준 웹 전환](https://www.notion.so/PARK-SORA-c9ec94236f284bcc8b458d6a639ea840?p=6a9391bc8cc24833a66fafd10fda197f&pm=c)
+
+---
+
 ## ✨ 아래와 같은 기술들을 습득하고 배워나가고 있습니다 :)
 
 ---
